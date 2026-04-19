@@ -1,0 +1,2 @@
+-- No database required — static landing page with no user data storage or authentication.
+-- All content is hard-coded or managed externally. Supabase is not used in this project.

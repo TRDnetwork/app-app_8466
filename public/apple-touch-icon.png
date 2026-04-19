@@ -1,0 +1,5 @@
+<!-- Note: This would be a 180x180px PNG, but providing SVG placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="30" fill="#8B4513"/>
+  <text x="90" y="115" font-family="Fraunces, serif" font-size="42" font-weight="700" text-anchor="middle" fill="#F5F5DC">B&amp;B</text>
+</svg>
